@@ -7,4 +7,6 @@ double sqrt(double x)
 {
   return std::sqrt(x);
 }
+
+create compile error
 }
